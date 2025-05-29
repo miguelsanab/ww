@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>El Calentamiento Global</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #eaf6f6;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #2e8b57;
+      color: white;
+      text-align: center;
+      padding: 20px 0;
+    }
+    main {
+      padding: 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h1, h2 {
+      color: #2e8b57;
+    }
+    img {
+      width: 100%;
+      max-width: 600px;
+      display: block;
+      margin: 20px auto;
+      border-radius: 10px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+      background-color: white;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 10px;
+      text-align: center;
+    }
+    th {
+      background-color: #2e8b57;
+      color: white;
+    }
+    footer {
+      text-align: center;
+      padding: 10px;
+      background-color: #2e8b57;
+      color: white;
+      margin-top: 20px;
+    }
+    a {
+      color: #2e8b57;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>El Calentamiento Global</h1>
+  </header>
+
+  <main>
+    <h2>¿Qué es el calentamiento global?</h2>
+    <p>
+      El calentamiento global es el aumento gradual de la temperatura promedio de la atmósfera y los océanos de la Tierra, atribuido principalmente a las actividades humanas, como la quema de combustibles fósiles y la deforestación.
+    </p>
+
+    <img src="https://cdn.pixabay.com/photo/2020/04/21/14/09/global-warming-5077241_1280.jpg" alt="Calentamiento Global">
+
+    <h2>Causas del Calentamiento Global</h2>
+    <ul>
+      <li>Emisión de gases de efecto invernadero (CO₂, CH₄, N₂O)</li>
+      <li>Deforestación y pérdida de ecosistemas</li>
+      <li>Uso excesivo de combustibles fósiles</li>
+      <li>Actividades industriales no sostenibles</li>
+    </ul>
+
+    <h2>Datos Importantes</h2>
+    <table>
+      <tr>
+        <th>Año</th>
+        <th>Temperatura Global (°C sobre promedio)</th>
+        <th>Concentración de CO₂ (ppm)</th>
+      </tr>
+      <tr>
+        <td>2000</td>
+        <td>+0.42°C</td>
+        <td>369 ppm</td>
+      </tr>
+      <tr>
+        <td>2010</td>
+        <td>+0.62°C</td>
+        <td>390 ppm</td>
+      </tr>
+      <tr>
+        <td>2020</td>
+        <td>+1.02°C</td>
+        <td>414 ppm</td>
+      </tr>
+      <tr>
+        <td>2023</td>
+        <td>+1.15°C</td>
+        <td>419 ppm</td>
+      </tr>
+    </table>
+
+    <h2>Referencias</h2>
+    <ul>
+      <li><a href="https://es.wikipedia.org/wiki/Calentamiento_global" target="_blank">Wikipedia - Calentamiento Global</a></li>
+      <li><a href="https://www.ipcc.ch/" target="_blank">Panel Intergubernamental sobre Cambio Climático (IPCC)</a></li>
+      <li><a href="https://www.un.org/es/climatechange/what-is-climate-change" target="_blank">ONU - ¿Qué es el cambio climático?</a></li>
+    </ul>
+  </main>
+
+  <footer>
+    &copy; 2024 - Proyecto sobre Calentamiento Global
+  </footer>
+
+</body>
+</html>
+
